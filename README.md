@@ -1,4 +1,4 @@
-# A/B Test Report: Food and Drink Banner
+# A/B Test Report: Food and Drink Banner (Banner Impact Analysis)
 
 ## Purpose
 GloBox, an e-commerce company specializing in unique global products, aims to increase awareness and revenue for its growing food and drink category. To achieve this, the Growth team initiates an A/B test focusing on the mobile website. Users are randomly assigned to either the control group, without a banner, or the test group, where a banner highlighting key food and drink products is displayed. The goal is to measure whether the banner significantly increases conversions and raises awareness for this product category. This data-driven approach helps GloBox optimize its platform to boost revenue and highlight diverse offerings to its customer
